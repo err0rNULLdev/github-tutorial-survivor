@@ -25,3 +25,8 @@ bios_locked_since = "birth"
 # Anyone who imposes rules without reason will be blocked.
 # Whoever lives the truth will be recognized.
 ```
+
+Status: DEPLOYED 🚀
+ByteGeist: ACTIVE ⚡  
+Learning by Burning: SINCE 1976 🔥
+Legacy: PRESERVED FOR ETERNITY 💎
